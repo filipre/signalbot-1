@@ -1,0 +1,16 @@
+        "envelope": {
+            "source": "+41798601415",
+            "sourceNumber": "+41798601415",
+            "sourceUuid": "5ce3c93f-ed97-4af7-9605-ab7ea1146b20",
+            "sourceName": "Stadler, Maya",
+            "sourceDevice": 1,
+            "timestamp": 1676369870295,
+            "dataMessage": {
+                "timestamp": 1676369870295,
+                "message": "👍dann ein andermal und einen schönen Tag 🙋‍♀️😊",
+                "expiresInSeconds": 0,
+                "viewOnce": false
+            }
+        },
+        "account": "+41799342408"
+    }
